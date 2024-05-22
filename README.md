@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github Code Repo](https://github.com/DarkPhoenixNinja92/Four-Card-Feature-Section)
-- Live Site URL: [Live Site](https://darkphoenixninja92.github.io/Four-Card-Feature-Section/)
+- Solution URL: [Github Code Repo](https://github.com/ShaunPour/Four-Card-Feature-Section)
+- Live Site URL: [Live Site](https://shaunpour.github.io/Four-Card-Feature-Section/)
 
 ### Built with
 
